@@ -1,21 +1,6 @@
 # Software Engineering Resources
 This is a repository by Addis Ababa Science and Technology University SWE Students.
 
-<div align='center'>
-
-<img src='https://img.shields.io/github/v/release/chroline/well_app?color=%23FDD835&label=version&style=for-the-badge'>
-  
-</a>
-  
-<a href='https://github.com/chroline/well_app/blob/main/LICENSE'>
-  
-<img src='https://img.shields.io/github/license/chroline/well_app?style=for-the-badge'>
-  
-</a>
-  
-</div>
-
-<br />
 
 ---
 
