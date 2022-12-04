@@ -1,5 +1,5 @@
-# 2nd-year-2nd-semster
-Repository by  Addis Ababa Science and Technology University  2nd Year Students.
+# Software Engineering Resources
+This is a repository by Addis Ababa Science and Technology University SWE Students.
 
 <div align='center'>
   
@@ -80,7 +80,7 @@ Thanks so much for your interest in growing the reach of the Well app!
 
 # ⚠️ License
 
-The Well app is free and open-source software licensed under the GNU General Public License v3.0. All designs were created by [Cole Gawin](https://github.com/chroline) and distributed under Creative Commons license (CC BY-SA 4.0 International).
+Thanks for contributing, WE RISE BY LIFTING OTHERS
 
 <br />
 
