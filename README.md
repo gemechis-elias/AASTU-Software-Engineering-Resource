@@ -18,58 +18,58 @@ This is a repository by Addis Ababa Science and Technology University SWE Studen
 Software Engineering Current Curriculum 
 
 2.2
-• Fundamentals of programming 2
-• Digital logic design
-• Data communication and computer networks
-• Database system
-• Probability and statistics
+• Fundamentals of programming 2<br />
+• Digital logic design<br />
+• Data communication and computer networks<br />
+• Database system<br />
+• Probability and statistics<br />
 
 3.1
-• Object oriented programming
-• Data structure and algorithms
-• Computer organization and architecture
-• Internet programming 1
-• System analysis and modelling
+• Object oriented programming <br />
+• Data structure and algorithms <br />
+• Computer organization and architecture<br />
+• Internet programming 1 <br />
+• System analysis and modelling <br />
 
 3.2
-• Internet programming 2
-• Software requirements engineering
-• Operating systems
-• Advanced programming
-• Formal language and automata theory
+• Internet programming 2 <br />
+• Software requirements engineering <br />
+• Operating systems <br />
+• Advanced programming <br />
+• Formal language and automata theory <br />
 
 4.1
-• Principles of compiler design
-• Mobile computing and programming
-• Software design and architecture
-• Intro to artificial intelligence
-• Computer graphics 
-• Integrated engineering team project
+• Principles of compiler design <br />
+• Mobile computing and programming <br />
+• Software design and architecture <br />
+• Intro to artificial intelligence <br />
+• Computer graphics  <br />
+• Integrated engineering team project <br />
 
 4.2
-• Embedded systems 
-• Software project management
-• Software quality assurance and testing
-• Research methods in software engineering
-• Human computer interaction
-• Intro to machine learning
-for summer-industrial internship
+• Embedded systems  <br />
+• Software project management <br />
+• Software quality assurance and testing <br />
+• Research methods in software engineering <br />
+• Human computer interaction <br />
+• Intro to machine learning <br />
+for summer-industrial internship <br />
 
 5.1
-• Senior research project phase 1
-• Software configuration management
-• Elective 1
-• Computer system security
-• Software component design
-• Open source software paradigms
-• Distributed systems
+• Senior research project phase 1 <br />
+• Software configuration management <br />
+• Elective 1 <br />
+• Computer system security <br />
+• Software component design <br />
+• Open source software paradigms <br />
+• Distributed systems <br />
 
 5.2
-• Senior research project 2
-• Elective 2
-• Software evolution and maintainance
-• Software defined system
-• Selected topics in software engineering
+• Senior research project 2 <br />
+• Elective 2 <br />
+• Software evolution and maintainance <br />
+• Software defined system <br />
+• Selected topics in software engineering <br />
 
 # 🧐 Project Idea
 
