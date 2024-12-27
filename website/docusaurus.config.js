@@ -10,7 +10,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'AASTU Software Engineering Resource',
+  title: 'Software Eng. Resource',
   tagline: 'Addis Ababa Science and Technology University',
   favicon: 'img/favicon.ico',
 
