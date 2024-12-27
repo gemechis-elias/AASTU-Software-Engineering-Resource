@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const sourceDir = './resources';
-const targetDir = './website/docs';
+const sourceDir = path.resolve(__dirname, '../resources');
+const targetDir = path.resolve(__dirname, './website/docs');
 
 function syncResources(source, target) {
   fs.readdirSync(source, { withFileTypes: true }).forEach((entry) => {
