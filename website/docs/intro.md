@@ -104,7 +104,7 @@ After adding your resources:
 ---
 
 ## Code of Conduct
-Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to maintain a welcoming and inclusive environment.
+Please adhere to our Code of Conduct to maintain a welcoming and inclusive environment.
 
 ---
 
