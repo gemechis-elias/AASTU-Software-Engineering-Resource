@@ -75,7 +75,7 @@ for summer-industrial internship <br />
 
 > Most of resources are there but not orginazed, our main goal is collecting books, ppt, pdf, codes, test, assignments and making it available for every one.
 > And also you can practice your git skill by cloning and pushing to this repo
-**Any Idea? [Contact the Owner](https://t.me/realgemechis).**
+**Any Idea? [Contact the Me](https://t.me/realgemechis).**
 
 
 # ✍️ Contributing
