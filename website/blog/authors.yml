@@ -1,23 +1,9 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+gemechis:
+  name: Gemechis Elias
+  title: 5th year, Software Engineering
+  url: https://gemechis.dev
+  image_url: https://i.pinimg.com/originals/0a/91/a1/0a91a106242bae7b8a6eee1ba8e7124c.jpg
   page: true
   socials:
-    x: yangshunz
-    github: yangshun
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    x: realgemechis
+    github: gemechis-elias
