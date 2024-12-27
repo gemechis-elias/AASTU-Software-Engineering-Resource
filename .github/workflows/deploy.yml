@@ -36,6 +36,11 @@ jobs:
       working-directory: ./website
       run: npm install
 
+    # Clear Cache
+    - name: Clear Cache
+      working-directory: .
+      run: npm rebuild node-sass
+
     # Sync resources
     - name: Sync Resources
       working-directory: .
