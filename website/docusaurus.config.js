@@ -46,7 +46,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/gemechis-elias/AASTU-Software-Engineering-Resource?tab=readme-ov-file#%EF%B8%8F-contributing',
+            'https://github.com/gemechis-elias/AASTU-Software-Engineering-Resource/blob/main/CONTRIBUTING.md',
         },
         blog: {
           showReadingTime: true,
