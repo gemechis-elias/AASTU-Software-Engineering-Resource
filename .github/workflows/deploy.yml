@@ -27,11 +27,11 @@ jobs:
         echo "Listing resources directory:"
         ls -R ./resources
 
-    # Set up Node.js
+    # Set up Node.js (use Node.js >=18.0)
     - name: Set up Node.js
       uses: actions/setup-node@v3
       with:
-        node-version: 16
+        node-version: 18
 
     # Install dependencies
     - name: Install Dependencies
