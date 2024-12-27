@@ -1,0 +1,46 @@
+name: Build and Deploy Website
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Checkout the repository
+    - name: Checkout Code
+      uses: actions/checkout@v3
+
+    # Set up Node.js
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: 16
+
+    # Install dependencies
+    - name: Install Dependencies
+      working-directory: ./website
+      run: npm install
+
+    # Sync resources
+    - name: Sync Resources
+      run: npm run sync-resources
+      working-directory: ./website
+
+    # Build the website
+    - name: Build Website
+      working-directory: ./website
+      run: npm run build
+
+    # Deploy to GitHub Pages
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./website/build
