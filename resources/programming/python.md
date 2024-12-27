@@ -17,9 +17,3 @@
   - **Title**: Replit  
   - **Link**: [https://replit.com](https://replit.com)  
   - **Description**: An online IDE to write, debug, and share Python code easily.
-
-## Advanced Topics
-- **Type**: Video Series  
-  - **Title**: Python Design Patterns  
-  - **Link**: [https://www.youtube.com/playlist?list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j)  
-  - **Description**: A playlist on implementing design patterns in Python.
