@@ -13,9 +13,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    # Checkout repository
+    # Checkout the repository
     - name: Checkout Code
       uses: actions/checkout@v3
+
+    # Verify resources directory
+    - name: Verify Resources Directory
+      run: |
+        echo "Listing repository root:"
+        ls -R .
+        echo "Listing resources directory:"
+        ls -R ./resources
 
     # Set up Node.js
     - name: Set up Node.js
@@ -30,8 +38,8 @@ jobs:
 
     # Sync resources
     - name: Sync Resources
-      run: npm run sync-resources
-      working-directory: ./website
+      working-directory: .
+      run: node sync-resources.js
 
     # Build the website
     - name: Build Website
