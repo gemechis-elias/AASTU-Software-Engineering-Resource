@@ -5,7 +5,7 @@ This is a repository by Addis Ababa Science and Technology University SWE Studen
 ---
 
 
-### Welcome Dear Classmates! 🥳 🚀
+### Welcome Dear Humans Of AASTU! 🥳 🚀
 
 - This is Unofficial Resources for AASTU Software Engineering Students.
 - Here we upload all resource we have in one place and Structered Folder.

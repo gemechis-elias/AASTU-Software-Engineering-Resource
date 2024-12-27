@@ -1,1 +1,0 @@
-## 2nd Year Resources
