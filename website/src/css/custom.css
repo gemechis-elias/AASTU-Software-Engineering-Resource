@@ -1,64 +1,30 @@
-/**
- * Adjusted global CSS to match the AASTU logo's theme.
- * Primary color: #a38901 (golden brown) and secondary colors inspired by the logo.
- */
+  /**
+  * Any CSS included here will be global. The classic template
+  * bundles Infima by default. Infima is a CSS framework designed to
+  * work well for content-centric websites.
+  */
 
- :root {
-  /* Primary colors inspired by the logo */
-  --ifm-color-primary: #a38901;
-  --ifm-color-primary-dark: #8f7600;
-  --ifm-color-primary-darker: #7b6700;
-  --ifm-color-primary-darkest: #675800;
-  --ifm-color-primary-light: #b79c22;
-  --ifm-color-primary-lighter: #c6ac44;
-  --ifm-color-primary-lightest: #d5bc66;
+  /* You can override the default Infima variables here. */
+  :root {
+    --ifm-color-primary: #a38901;
+    --ifm-color-primary-dark: #29784c;
+    --ifm-color-primary-darker: #277148;
+    --ifm-color-primary-darkest: #205d3b;
+    --ifm-color-primary-light: #33925d;
+    --ifm-color-primary-lighter: #359962;
+    --ifm-color-primary-lightest: #3cad6e;
+    --ifm-code-font-size: 95%;
+    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  }
 
-  /* Secondary colors (blue tones from the logo) */
-  --ifm-color-secondary: #002d62; /* Dark blue */
-  --ifm-color-secondary-light: #1e497f;
-  --ifm-color-secondary-dark: #001e4a;
-
-  /* Neutral tones for balance */
-  --ifm-color-gray: #f5f5f5; /* Backgrounds */
-  --ifm-color-gray-dark: #e0e0e0;
-  --ifm-color-gray-darker: #b3b3b3;
-  --ifm-color-gray-darkest: #808080;
-
-  /* Code block styling */
-  --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(163, 137, 1, 0.1); /* Subtle highlight for code lines */
-}
-
-/* For readability in dark mode */
-[data-theme='dark'] {
-  --ifm-color-primary: #e5c247; /* Lighter golden brown */
-  --ifm-color-primary-dark: #d2b03f;
-  --ifm-color-primary-darker: #c1a03a;
-  --ifm-color-primary-darkest: #a38901; /* Matching original primary */
-  --ifm-color-primary-light: #edd067;
-  --ifm-color-primary-lighter: #f2da89;
-  --ifm-color-primary-lightest: #f7e4ab;
-
-  /* Adjusted blue tones for dark mode */
-  --ifm-color-secondary: #4a90e2; /* Brightened blue */
-  --ifm-color-secondary-light: #6eaaff;
-  --ifm-color-secondary-dark: #357ab7;
-
-  --docusaurus-highlighted-code-line-bg: rgba(229, 194, 71, 0.2); /* Highlight in dark mode */
-}
-
-/* Additional spacing and UI tweaks */
-body {
-  background-color: var(--ifm-color-gray);
-  color: var(--ifm-color-primary-darkest);
-}
-
-a {
-  color: var(--ifm-color-primary);
-  text-decoration: none;
-}
-
-a:hover {
-  color: var(--ifm-color-primary-light);
-  text-decoration: underline;
-}
+  /* For readability concerns, you should choose a lighter palette in dark mode. */
+  [data-theme='dark'] {
+    --ifm-color-primary: #25c2a0;
+    --ifm-color-primary-dark: #21af90;
+    --ifm-color-primary-darker: #1fa588;
+    --ifm-color-primary-darkest: #1a8870;
+    --ifm-color-primary-light: #29d5b0;
+    --ifm-color-primary-lighter: #32d8b4;
+    --ifm-color-primary-lightest: #4fddbf;
+    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  }
