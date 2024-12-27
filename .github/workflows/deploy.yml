@@ -1,4 +1,4 @@
-name: Build and Deploy Website
+name: Sync Resources
 
 on:
   push:
@@ -9,7 +9,7 @@ on:
       - main
 
 jobs:
-  build-deploy:
+  sync-resources:
     runs-on: ubuntu-latest
 
     steps:
@@ -42,15 +42,3 @@ jobs:
     - name: Sync Resources
       working-directory: .
       run: node sync-resources.js
-
-    # Build the website
-    - name: Build Website
-      working-directory: ./website
-      run: npm run build
-
-    # Deploy to GitHub Pages
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./website/build
