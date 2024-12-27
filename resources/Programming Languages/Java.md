@@ -5,7 +5,7 @@
 - **Type**: [Link]
 - **Title**: Java Programming and Software Engineering Fundamentals by Duke University
 - **Link**: [https://www.coursera.org/specializations/java-programming](https://www.coursera.org/specializations/java-programming)
-- **Description**: A beginner-friendly specialization covering Java programming, data structures, and software engineering fundamentals.
+- **Description**: A beginner-friendly specialization covering Java programming, data structures, and software engineering fundamentals.<br>
 
 - **Type**: [Link]
 - **Title**: Java Programming for Complete Beginners by Udemy
@@ -17,7 +17,7 @@
 - **Type**: [Book]
 - **Title**: "Effective Java" by Joshua Bloch
 - **Link**: [https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997)
-- **Description**: A highly recommended book for intermediate and advanced Java developers, focusing on best practices and design patterns.
+- **Description**: A highly recommended book for intermediate and advanced Java developers, focusing on best practices and design patterns.<br>
 
 - **Type**: [Book]
 - **Title**: "Head First Java" by Kathy Sierra and Bert Bates
@@ -29,7 +29,7 @@
 - **Type**: [Link]
 - **Title**: Java Programming Tutorials by GeeksforGeeks
 - **Link**: [https://www.geeksforgeeks.org/java/](https://www.geeksforgeeks.org/java/)
-- **Description**: A collection of tutorials covering Java basics, advanced topics, and practical implementations.
+- **Description**: A collection of tutorials covering Java basics, advanced topics, and practical implementations.<br>
 
 - **Type**: [Link]
 - **Title**: Java Tutorials by W3Schools
@@ -41,7 +41,7 @@
 - **Type**: [Link]
 - **Title**: Spring Framework
 - **Link**: [https://spring.io/](https://spring.io/)
-- **Description**: A popular Java framework for building enterprise-level applications, offering support for dependency injection, web development, and more.
+- **Description**: A popular Java framework for building enterprise-level applications, offering support for dependency injection, web development, and more.<br>
 
 - **Type**: [Link]
 - **Title**: Apache Maven
@@ -53,7 +53,7 @@
 - **Type**: [Link]
 - **Title**: HackerRank Java Challenges
 - **Link**: [https://www.hackerrank.com/domains/tutorials/10-days-of-java](https://www.hackerrank.com/domains/tutorials/10-days-of-java)
-- **Description**: A set of challenges designed to help you practice and master Java programming skills.
+- **Description**: A set of challenges designed to help you practice and master Java programming skills.<br>
 
 - **Type**: [Link]
 - **Title**: LeetCode Java Problems
