@@ -2,7 +2,7 @@ gemechis:
   name: Gemechis Elias
   title: 5th year, Software Engineering
   url: https://gemechis.dev
-  image_url: ../static/img//img/geme_profile.jpg
+  image_url: https://github.com/gemechis-elias/AASTU-Software-Engineering-Resource/blob/main/website/static/img/geme_profile.jpg?raw=true
   page: true
   socials:
     x: realgemechis

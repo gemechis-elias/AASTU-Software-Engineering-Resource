@@ -1,35 +1,32 @@
-import clsx from 'clsx';
 import Heading from '@theme/Heading';
+import clsx from 'clsx';
 import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Collaboration',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
+        Let's work together to build a comprehensive software engineering resource for AASTU students. Visit out GitHub repository to contribute or suggest changes.
+          </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Sharing is Caring',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Share resources, tutorials, and other helpful materials with your fellow students. Let's make the learning process easier for everyone. Thanks for your contribution!
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Community Building',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Join our Telegram group and LinkedIn page to stay up-to-date with the latest news and updates. Let's build a strong community of software engineers at AASTU!
       </>
     ),
   },

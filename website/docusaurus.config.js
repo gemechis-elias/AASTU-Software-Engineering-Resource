@@ -117,10 +117,7 @@ const config = {
                 label: 'Linkedin',
                 href: 'https://www.linkedin.com/company/innovate-aastu',
               },
-              {
-                label: 'X',
-                href: 'https://x.com/realgemechis',
-              },
+              
             ],
           },
           {
