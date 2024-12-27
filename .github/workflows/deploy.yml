@@ -14,16 +14,16 @@ jobs:
 
     steps:
     # Checkout the repository
-    - name: Checkout Code
+    - name: Checkout Repository
       uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
 
-    # Verify resources directory
-    - name: Verify Resources Directory
+    # Debug: List repository structure
+    - name: List Repository Structure
       run: |
-        echo "Listing repository root:"
-        ls -R .
-        echo "Listing resources directory:"
-        ls -R ./resources
+        echo "Listing all files in the repository:"
+        ls -R
 
     # Set up Node.js
     - name: Set up Node.js
@@ -35,11 +35,6 @@ jobs:
     - name: Install Dependencies
       working-directory: ./website
       run: npm install
-
-    # Clear Cache
-    - name: Clear Cache
-      working-directory: .
-      run: npm rebuild node-sass
 
     # Sync resources
     - name: Sync Resources
