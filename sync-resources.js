@@ -1,8 +1,9 @@
 const fs = require('fs');
 const path = require('path');
 
-const sourceDir = './resources';
-const targetDir = './website/docs';
+// Use absolute paths
+const sourceDir = path.resolve(__dirname, './resources');
+const targetDir = path.resolve(__dirname, './website/docs');
 
 console.log('Source Directory:', sourceDir);
 console.log('Target Directory:', targetDir);

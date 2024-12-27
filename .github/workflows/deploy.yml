@@ -22,8 +22,10 @@ jobs:
     # Debug: List repository structure
     - name: List Repository Structure
       run: |
-        echo "Listing all files in the repository:"
-        ls -R
+        echo "Listing repository root:"
+        ls -R .
+        echo "Listing resources directory:"
+        ls -R ./resources
 
     # Set up Node.js
     - name: Set up Node.js
