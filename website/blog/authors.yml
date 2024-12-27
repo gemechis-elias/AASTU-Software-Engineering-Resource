@@ -2,7 +2,7 @@ gemechis:
   name: Gemechis Elias
   title: 5th year, Software Engineering
   url: https://gemechis.dev
-  image_url: https://i.pinimg.com/originals/0a/91/a1/0a91a106242bae7b8a6eee1ba8e7124c.jpg
+  image_url: ../static/img//img/geme_profile.jpg
   page: true
   socials:
     x: realgemechis
