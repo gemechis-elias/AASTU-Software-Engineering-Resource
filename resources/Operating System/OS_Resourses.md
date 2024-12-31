@@ -1,6 +1,6 @@
 # Operating Systems Resources
 
-# Online Courses
+## Online Courses
 
 - **Type**: [Link]
 - **Title**: Operating Systems and System Programming by UC Berkeley (CS162)
@@ -12,7 +12,7 @@
 - **Link**: https://www.coursera.org/learn/os-power-user
 - **Description**: A beginner-friendly course that introduces how operating systems work and how to manage them effectively.
 
-# Books
+## Books
 
 - **Type**: [Book]
 - **Title**: "Operating Systems: Three Easy Pieces" by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
@@ -25,7 +25,7 @@
 - **Description**: A free book focused on synchronization principles in operating systems, providing step-by-step explanations and practical examples to understand semaphores and concurrency control.
 
 
-# YouTube Videos
+## YouTube Videos
 
 - **Type**: [Video]
 - **Title**: Operating Systems Full Course by Neso Academy
@@ -42,7 +42,7 @@
 - **Link**: https://youtu.be/RozoeWzT7IM?list=PLdo5W4Nhv31a5ucW_S1K3-x6ztBRD-PNa
 - **Description**: A beginner-friendly series explaining Operating System concepts in short, focused videos.
 
-# Libraries and Tools
+## Libraries and Tools
 
 - **Type**: [Link]
 - **Title**: Linux Kernel Development
